@@ -1,3 +1,5 @@
+***! UPLOADED COMPLETED APP RIGHT AWAY !***
+
 #Title
 
 Next.JS Real Estate App
